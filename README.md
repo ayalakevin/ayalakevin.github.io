@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my Website
 
 
 ### Projects
@@ -8,9 +8,9 @@ tbd
 ```markdown
 Syntax highlighted code block
 
-# AirSim
-## Coding
-### Pygame
+# Header 1
+## Header 2
+### Header 3
 
 - Bulleted
 - List
